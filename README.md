@@ -1,6 +1,8 @@
 # Netflix-clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) 
+
+This clone was made with this [Tutorial](https://www.youtube.com/watch?v=XtMThy8QKqU&list=LLsZTQ52rf6YPONJj773Sa6g&index=2&t=0s)
 
 ## Dependencies
 
