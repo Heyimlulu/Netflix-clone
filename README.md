@@ -7,17 +7,11 @@ This clone was made with this [Tutorial](https://www.youtube.com/watch?v=XtMThy8
 ## Dependencies
 
 - axios
-
 - movie-trailer
-
 - react
-
 - react-dom
-
 - react-scripts
-
 - react-youtube
-
 - youtube
 
 ## Getting started
@@ -32,9 +26,7 @@ Then
 
 ```
 npm i axios
-
 npm i react-youtube
-
 npm i movie-trailer
 ```
 
